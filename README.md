@@ -14,7 +14,7 @@ Rode o comando abaixo para instalar as dependências do projeto:
 
 Rode o comando abaixo para executar o projeto:
 
-`npm start`
+`node ./index.js`
 
 #
 
